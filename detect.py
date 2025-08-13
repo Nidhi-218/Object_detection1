@@ -22,7 +22,7 @@ for _ in range(len(class_list)):
 model = YOLO("weights/yolov8n.pt", "v8")
 
 # Use video file or webcam (0)
-cap = cv2.VideoCapture("1.mp4")  # or cap = cv2.VideoCapture(0) for webcam
+cap = cv2.VideoCapture("13.mp4")  # or cap = cv2.VideoCapture(0) for webcam
 if not cap.isOpened():
     print("Cannot open video source")
     exit()
