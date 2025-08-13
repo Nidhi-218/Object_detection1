@@ -1,5 +1,0 @@
-train: C:/Users/ASUS/Downloads/yolov8-silva-main/yolov8-silva-main/dataset/train
-val: C:/Users/ASUS/Downloads/yolov8-silva-main/yolov8-silva-main/dataset/val
-
-nc: 1
-names: ['pen']
